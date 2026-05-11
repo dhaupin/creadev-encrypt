@@ -36,3 +36,4 @@ const decrypted = await decrypt(encrypted, key);
 ## License
 
 MIT
+trigger
